@@ -20,4 +20,5 @@ Ansible playbooks were created to automate deployment tasks, including provision
 Step 6:-Deployment on AWS (Amplify):
 We chose AWS Amplify as the deployment platform, where we host our website. Amplify provides a fully managed environment for deploying web applications.
 
-Blog Website link deployed via AWS Amplify:- https://prod.dci77ndo0b8u0.amplifyapp.com/(Not working now, can check it in documents)
+Blog Website link deployed via AWS Amplify:- https://prod.dci77ndo0b8u0.amplifyapp.com/ 
+(Not working now, can check it in documents)
